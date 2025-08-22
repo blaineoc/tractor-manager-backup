@@ -69,8 +69,7 @@ This app follows the 4 Pillars of Object-Oriented Programming:
 
 # Screencast Link
 
-[SCREENCAST LINK HERE]
-
+https://www.youtube.com/watch?v=VDUC3xMKjfw
 ---
 
 # Submission
