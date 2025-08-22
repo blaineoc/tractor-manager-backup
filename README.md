@@ -39,15 +39,15 @@ This app follows the 4 Pillars of Object-Oriented Programming:
 
 ##  Features
 
-| Feature | Included |
+| Features | Included |
 |--------|----------|
 | Add, Delete, Find, Count, List Tractors |
-| Sort tractors by VIN  
-| Perform Maintenance (Polymorphism) 
-| Fixed array with user-defined size 
-| Clean, modular code 
-| Console-based user menu 
-| Separate files for each class 
+Sort tractors by VIN  
+ Perform Maintenance (Polymorphism) 
+ Fixed array with user-defined size 
+ Clean, modular code 
+ Console-based user menu 
+ Separate files for each class 
 
 ---
 
